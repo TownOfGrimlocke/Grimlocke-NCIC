@@ -1,20 +1,20 @@
 {
-	
-	"Name" : " Vikki Romanova",
+
+	"Name": " Vikki Romanova",
 	"Birthday": "4-18-2007",
-	"Place Of Birth" : " Santa Barbara, Ca",
-	"Sex" : "Female",
+	"Place Of Birth": " Santa Barbara, Ca",
+	"Sex": "Female",
 	"Height": "71 Inches",
 	"Weight": "95 LBS",
 	"Eye Color": "Blue",
 	"Hair Color": "Black",
-	"Race" : "Caucasian",
-	"Ethnicity" : "Non Hispanic",
-	"Skin Tone" : "Light",
-	"SSN" : "111-60-9569",
-	"Aliases" {
-		"1" : "Vik Romanova",
-		"2" : "Vikki Romanova",
-		"3" : "Viktoriya Sergeievna Romanova"
-		}
+	"Race": "Caucasian",
+	"Ethnicity": "Non Hispanic",
+	"Skin Tone": "Light",
+	"SSN": "111-60-9569",
+	"Aliases": {
+		"1": "Vik Romanova",
+		"2": "Vikki Romanova",
+		"3": "Viktoriya Sergeievna Romanova"
+	}
 }
