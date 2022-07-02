@@ -1,6 +1,40 @@
 {
    "1":{
+      "Count" : "1",
+      "Code" : "164.395",
+      "Statute" : "Robbery in the third degree",
+      "Fine" : "$0"
    },
    "2": {
-}
+      "Count" : "1",
+      "Code" : "162.142",
+      "Statute" : "Escape in the third degree",
+      "Fine" : "$0"      
+},
+   "3": {
+      "Count" : "1",
+      "Code" : "164.325",
+      "Statute" : "Arson in the first degree",
+      "Fine" : "$0"      
+},
+   "4": {
+      "Count" : "1",
+      "Code" : "475",
+      "Statute" : "Controlled Substances",
+      "Fine" : "$0"      
+},
+   "5": {
+      "Count" : "1",
+      "Code" : "162.315",
+      "Statute" : "Resisting arrest",
+      "Fine" : "$0"  
+      
+},
+   "6": {
+      "Count" : "1",
+      "Code" : "163.208",
+      "Statute" : "Assaulting a public safety officer",
+      "Fine" : "$0"  
+      
+}   
 }
