@@ -1,7 +1,7 @@
 {
-  "Birthday": "",
-  "Height": "",
-  "Weight": "",
+  "Birthday": "test",
+  "Height": "test",
+  "Weight": "test",
   "Eye Color": "Blue",
-  "Hair Color": ""
+  "Hair Color": "test"
 }
